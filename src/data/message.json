@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "status": "received",
+    "from": "John Lewis",
+    "fromAddress": "john@gmail.com",
+    "subject": "Project",
+    "receivedAt": "2019-05-14 10:39:20",
+    "body": "Hey Mark, Can you send me an update on the project? Thanks"
+  },
+  {
+    "id": 2,
+    "status": "received",
+    "from": "Bob Henry",
+    "fromAddress": "bob@gmail.com",
+    "subject": "Late Today",
+    "receivedAt": "2019-05-10 13:09:51",
+    "body": "Hello, I will be in late today due to a doctor's appointment. Bob",
+    "attachment": false
+  },
+  {
+    "status": "sent",
+    "id": 3,
+    "from": "Lisa Smith",
+    "fromAddress": "lisa@gmail.com",
+    "subject": "Hirings",
+    "receivedAt": "2019-05-8 17:00:16",
+    "body": "Please review the attached resume",
+    "attachment": true
+  },
+  {
+    "id": 4,
+    "status": "sent",
+    "from": "Harry Johnson",
+    "fromAddress": "harry@gmail.com",
+    "subject": "RE: Leave",
+    "receivedAt": "2019-05-8 17:00:16",
+    "body": "Leave is approved"
+  },
+  {
+    "id": 5,
+    "status": "sent",
+    "from": "Beth Williams",
+    "fromAddress": "beth@gmail.com",
+    "subject": "Meeting Minutes",
+    "receivedAt": "2019-05-05 17:10:53",
+    "body": "Please send me the meeting minutes for today. Thank you."
+  },
+  {
+    "id": 6,
+    "status": "draft",
+    "from": "Jason Roberts",
+    "fromAddress": "jason@gmail.com",
+    "subject": "Morning",
+    "receivedAt": "2019-05-03 17:11:08",
+    "body": "Good Morning!"
+  },
+  {
+    "id": 7,
+    "status": "draft",
+    "from": "Alice Watkins",
+    "fromAddress": "alice@gmail.com",
+    "subject": "Sample Subject",
+    "receivedAt": "2019-05-03 17:12:04",
+    "body": "The message body goes here."
+  },
+  {
+    "id": 8,
+    "status": "draft",
+    "from": "Jacob Jackson",
+    "fromAddress": "jacob@gmail.com",
+    "subject": "Subject Here",
+    "receivedAt": "2019-04-03 17:13:42",
+    "body": "Hello, Lorem Ipsum. Thanks"
+  },
+  {
+    "id": 9,
+    "status": "draft",
+    "from": "Philip Hoover",
+    "fromAddress": "philip@gmail.com",
+    "subject": "Lorem Ipsum",
+    "receivedAt": "2019-04-01 17:14:03",
+    "body": "Hi, this is a sample message body"
+  }
+]
